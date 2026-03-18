@@ -1,0 +1,21 @@
+{
+    "full_name": "Siniyya Yousuf",
+    "name": "Siniyya",
+    "current_role": "AI Engineer",
+    "location": "Bangalore, India",
+    "email": "siniyya@gmail.com",
+    "linkedin": "linkedin.com/in/siniyya",
+    "specialties": [
+      "AI",
+      "Data Science",
+      "Machine Learning"
+    ],
+    "years_experience": 13,
+    "education": [
+      {
+        "degree": "Masters in Data Science and AI",
+        "institution": "Liverpool John Moores University",
+        "year": "2026"
+      }
+    ]
+  }
